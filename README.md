@@ -1,5 +1,5 @@
 <h1> C-CDA Epic Parser </h1>
-<h5>Not Fully Completed, Needs Refactoring</h5>
+<h5>Not Fully Completed, Needs Refactoring (~75% Complete)</h5>
 <hr/>
 <h4>Built With Epic Version 8.5 Generated .xml  </h4>
 
