@@ -1,4 +1,4 @@
-<h1> CCDA Epic Parser </h1>
+<h1> C-CDA Epic Parser </h1>
 <h4>Built With Epic Version 8.5 Generated .xml  </h4>
 
 A project for practice with more complex python programs. 
