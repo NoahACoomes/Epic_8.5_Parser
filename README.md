@@ -7,3 +7,5 @@ A project for practice with more complex python programs.
 Input .XML not included, will include once I get around to anonymizing the XML file. 
 
 <i>If your hospital system uses a Epic System Patient Portal, you could use the program with the xml it creates. Just rename file to 'Input.xml'</i>
+
+Included python environment, currently bare.
