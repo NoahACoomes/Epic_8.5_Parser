@@ -1,5 +1,8 @@
 <h1> C-CDA Epic Parser </h1>
+<h5>Not Fully Completed, Needs Refactoring</h5>
+<hr/>
 <h4>Built With Epic Version 8.5 Generated .xml  </h4>
+
 
 A project for practice with more complex python programs. 
 (Not Yet Complete), planning on making program more flexible To XML changes
